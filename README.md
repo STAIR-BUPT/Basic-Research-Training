@@ -58,6 +58,8 @@
 
         m)  智能体在群组交互中的身份归因问题：https://benchmarklist.com/benchmarks/groupmembench_benchmarking_llm_agent_memory_in_multi_party_conversations/
 
+        n)  数据水印：https://arxiv.org/abs/2301.10226
+
 
 **考核方式：**
 
@@ -65,7 +67,7 @@
 
     2、	使用任意Agent检索调研相关工作（包括但不限于Gemini、ChatGPT Deep Research、Undermind、Claude Code 等工具），产出调研报告。并在个人GitHub repo进行更新；
 
-    3、	基于阅读的文献，在实验室组会上给出一个小时左右的presetation。
+    3、	基于阅读的文献，在实验室组会上给出一个小时左右的presetation，组会汇报模版位于同仓库目录下，供参考。
 
     4、	基于阅读的文献，构建灵感矩阵（Insight Matrix），定位自己的最终想法。
 
