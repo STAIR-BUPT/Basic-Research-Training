@@ -60,6 +60,8 @@
 
         n)  数据水印：https://arxiv.org/abs/2301.10226
 
+        o)  Agent间接提示注入：https://arxiv.org/abs/2302.12173
+
 
 **考核方式：**
 
