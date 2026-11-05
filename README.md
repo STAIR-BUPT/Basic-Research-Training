@@ -69,7 +69,7 @@
 
     2、	使用任意Agent检索调研相关工作（包括但不限于Gemini、ChatGPT Deep Research、Undermind、Claude Code 等工具），产出调研报告。并在个人GitHub repo进行更新；
 
-    3、  选取一篇感兴趣的论文，借助任意 Coding Agent 完成核心算法复现（可参考https://github.com/Hongyang-Du/PaperLeet中对论文核心算法的复现过程）。请在个人 GitHub 仓库归档相关材料，提交内容包含与 AI 的交互对话链接（含提示词记录、AI 输出内容等）、复现代码和复现结果；论文无法成功复现的，本项记为不合格。
+    3、   选取一篇感兴趣的论文，借助任意 Coding Agent 完成核心算法复现（可参考https://github.com/Hongyang-Du/PaperLeet中对论文核心算法的复现过程）。请在个人 GitHub 仓库归档相关材料，提交内容包含与 AI 的交互对话链接（含提示词记录、AI 输出内容等）、复现代码和复现结果；论文无法成功复现的，本项记为不合格。
 
     4、	基于阅读的文献，在实验室组会上给出一个小时左右的presetation，组会汇报模版位于同仓库目录下，供参考。
 
